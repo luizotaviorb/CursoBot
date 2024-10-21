@@ -2,7 +2,7 @@
   "name": "cursobot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "exercicios/firstBot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "telegraf": "^3.40.0"
   }
 }
